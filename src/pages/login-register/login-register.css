@@ -1,0 +1,11 @@
+.bglogin {
+    height: 100vh;
+    background: url("../../assets/images/loginpg.png");
+    background-size: cover;
+}
+
+.bgsignup {
+    height: 100vh;
+    background: url("../../assets/images/signup-backgn.png");
+    background-size: cover;
+}

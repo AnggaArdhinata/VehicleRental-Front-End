@@ -1,0 +1,36 @@
+
+.testistyle {
+    margin-top: 10px;
+    font-family : Playfair Display;
+    font-style : normal;
+    font-size: 36px ;
+    margin-bottom: 10px;
+}
+
+.styletext{
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 50;
+    font-size: 24px;
+    line-height: 36px;
+    line-height: 120%;
+    align-content: left;
+    vertical-align: top;
+    margin-top: 2%;
+    opacity: 70%;
+}
+.stylebold {
+    font-family: 'Nunito', sans-serif !important;
+    margin-top: 5%;
+    font-weight: 600 !important;
+}
+
+.imagetesti {
+    align-items:flex-start;
+    height: auto;
+    width: 250px;
+}
+
+.sizeimg {
+    margin-top: 20%;
+}
+

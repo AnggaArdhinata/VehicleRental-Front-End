@@ -1,0 +1,29 @@
+
+.title1 {
+    margin-top: 20%;
+    font-family : Playfair Display;
+    font-style : normal;
+    font-size: 64px ;
+    line-height: 80px;
+    line-height: 94%;
+    color: #202336;
+    }
+    
+.title2 {
+    font-family : Playfair Display;
+    font-style : normal;
+     font-size: 64px ;
+    line-height: 80px;
+    line-height: 94%;
+    color: #202336;
+    }
+    
+.title3 {
+    margin-top: 20%;
+    font-family: 'Nunito', sans-serif !important;
+    font-style : normal;
+    font-size: 22px ;
+    line-height: 80px;
+    line-height: 94%;
+     margin-bottom: 10%;
+    }

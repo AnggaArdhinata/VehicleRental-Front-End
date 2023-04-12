@@ -1,0 +1,51 @@
+.detail-img {
+    width: auto;
+    height: 20px;
+    flex-wrap: wrap;
+}
+
+.lebar {
+   width: fit-content;
+   
+}
+
+.img-detail-ukr {
+    width: 610px;
+    height: 409px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+
+.text-align-price {
+    font-family : Playfair Display;
+    font-weight: 600;
+    text-align: right;
+}
+
+.dtl-tittle {
+    font-family : Playfair Display;
+    font-weight: 600;
+}
+
+.dtl-sub {
+    font-family: Playfair Display;
+    font-weight: 100;
+}
+
+.dtl-status {
+    font-family: Nunito;
+    font-weight: 700;
+    color: #087E0D;
+}
+
+.dtl-payment {
+    font-family: Nunito;
+    font-weight: 300;
+    color: #9B0A0A;
+}
+
+.dtl-type {
+    font-family: Nunito;
+    font-weight: 300;
+    color: #393939;
+}

@@ -1,0 +1,25 @@
+
+.textfoot1{
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 300;
+    font-size: 17px;
+    color: #848484;
+}
+
+.headertxtfoot{
+    font-family: 'Mulish', sans-serif !important;
+    color: black;
+    font-weight: 700;
+    font-size: 19px;
+    
+}
+
+.bgfoot {
+    background-color: #F9F9FB;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.rowfoot {
+    text-align: center;
+}
